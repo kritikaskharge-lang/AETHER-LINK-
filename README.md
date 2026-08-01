@@ -40,7 +40,9 @@ AetherLink is an offline emergency communication system that enables users to se
 ## 👩‍💻 Team Members
 - Kritika Kharge
 - Yashmita
-- (Add the remaining team members)
+- Spandana bhavi
+- Huriyabanu ganachari
+- Bibifatima chamanmalik 
 
 ## 📄 License
 This project is for educational purposes.
